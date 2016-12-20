@@ -2,11 +2,21 @@
 
 In partnership with the California Department of Food and Agriculture and other state agency partners, the California Department of Technology will be conducting a procurement to acquire a system to "Track and Trace" cannabis products within California. 
 
-Below, the State has defined preliminary business needs and user stories for the Cannabis Track and Trace System.
-
 If you have comments or questions please [submit a Github Issue](https://github.com/CDTProcurement/trackandtrace/issues) by noon on 12/23/2016. 
 
-Business Needs and User Stories for Cannabis Track and Trace System
+# Administrative Requirements
+* [Standard Contract Terms & Conditions - Information Technology General Provisions](http://www.documents.dgs.ca.gov/pd/poliproc/GSPD401IT14_0905.pdf)
+* [Cloud Computing Special Provisions for Software-as-a-Service (SaaS)](http://www.documents.dgs.ca.gov/pd/poliproc/CLOUDCOMPUTINGSERVICESSPECIALPROVISIONS_14_0903.docx)
+* [Payee Data Record](http://www.documents.dgs.ca.gov/dgs/fmc/pdf/std204.pdf)
+* [Bidder Declaration](http://www.documents.dgs.ca.gov/pd/delegations/GSPD105.pdf)
+* [SB/DVBE Certifications](https://caleprocure.ca.gov/pages/PublicSearch/supplier-search.aspx) - you only need to submit an SB or DVBE certification if you are a State of California certified Small Business (SB) or Disabled Veteran Business Enterprise (DVBE) or will be utilizing an SB or DVBE as a subcontractor.
+* [DVBE Declaration](https://www.documents.dgs.ca.gov/pd/poliproc/STD-843FillPrintFields.pdf) - you only needs to submit a DVBE Declaration if you are a certified DVBE or is utilizing a DVBE as a subcontractor.
+* [Security of State Registration](https://businesssearch.sos.ca.gov) - Proof of current registration with California Secretary of State.
+* Compliance with the Iran Contracting Act of 2010.
+
+# Business Needs and User Stories for Cannabis Track and Trace System
+
+Below, the State has defined preliminary business needs and user stories for the Cannabis Track and Trace System.
 
 ###Licensee
 As a,
